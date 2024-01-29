@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\refint\MutlakKareAlma.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\MutlakKareAlma\obj\Debug\net8.0\ref\MutlakKareAlma.dll
